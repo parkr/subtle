@@ -1,0 +1,11 @@
+{
+  "name": "subtle",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A clean, easy-to-scan theme for Atom.",
+  "repository": "https://github.com/parkr/subtle",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
